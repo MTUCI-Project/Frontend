@@ -54,7 +54,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                     ),
                     const SizedBox(height: 8),
                     const Text(
-                      'Создайте аккаунт и начните пользоваться oncast',
+                      'Создайте аккаунт',
                       style: TextStyle(color: Colors.white70, fontSize: 15),
                     ),
                     const SizedBox(height: 24),
